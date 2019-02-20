@@ -1,0 +1,63 @@
+[
+  {
+    "date": "2018-01-01",
+    "holdings": {
+      "VGS": 16,
+      "VAP": 4,
+      "AAA": 7,
+      "RARI": 15
+    }
+  },
+  {
+    "date": "2018-01-02",
+    "holdings": {
+      "VGS": 10,
+      "VAP": 19,
+      "AAA": 11,
+      "RARI": 11
+    }
+  },
+  {
+    "date": "2018-01-03",
+    "holdings": {
+      "VGS": 7,
+      "VAP": 19,
+      "RARI": 1
+    }
+  },
+  {
+    "date": "2018-01-04",
+    "holdings": {
+      "VGS": 2,
+      "VAP": 14,
+      "AAA": 3,
+      "RARI": 13
+    }
+  },
+  {
+    "date": "2018-01-05",
+    "holdings": {
+      "VGS": 18,
+      "VAP": 6,
+      "AAA": 9,
+      "RARI": 16
+    }
+  },
+  {
+    "date": "2018-01-06",
+    "holdings": {
+      "VGS": 8,
+      "VAP": 3,
+      "AAA": 18
+    }
+  },
+  {
+    "date": "2018-01-07",
+    "holdings": {
+      "VGS": 5,
+      "VAP": 18,
+      "AAA": 3,
+      "RARI": 9
+    }
+  }
+]
